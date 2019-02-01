@@ -1,3 +1,3 @@
 class AddCatchphraseToCharacters
-  add_columns :character, :catchprase, :string
+  add_column :character, :catchprase, :string
 end
